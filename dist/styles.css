@@ -147,3 +147,19 @@ img { max-width: 100%; }
   .topline a { font-size: 11px; white-space: nowrap; }
   .topline strong { font-size: 12px; }
 }
+
+/* Portrait customer photos must remain fully visible in tour cards and galleries. */
+.package-item img[src*='traveller-photos'],
+.hero-gallery .gallery-image img[src*='traveller-photos'] {
+  object-fit: contain;
+  background: #f2f7f5;
+}
+.hero-gallery .gallery-image img[src*='traveller-photos'] {
+  height: min(72vh, 720px);
+  aspect-ratio: auto;
+}
+@media (max-width: 575px) {
+  .hero-gallery .gallery-image img[src*='traveller-photos'] {
+    height: min(65vh, 520px);
+  }
+}

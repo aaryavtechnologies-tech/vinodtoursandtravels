@@ -48,7 +48,7 @@ Includes 11 added destinations and all {len(photos)} owner-supplied traveller ph
 Kotdwar phone and WhatsApp: +91 80760 69722
 Delhi phone and WhatsApp: +91 90455 11378
 Kotdwar office: Near UGB Bank, East, Jhandichour, Kotdwara, Uttarakhand 246149, India
-Delhi office: Shop No. 10, Sector 2, R.K. Puram, Main Market, New Delhi 110022, India
+Delhi office: Store No. 8, Sector 2, R.K. Puram, New Delhi 110022, India
 Email: Vndkmr733@gmail.com
 The supplied rating is interpreted as 4.9 / 5 from 177 Google reviews.
 
