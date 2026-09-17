@@ -4,7 +4,10 @@ The finished website is in `dist/`. Open `dist/index.html` directly, or serve th
 
 ## Included
 
-- 43 English HTML pages, local CSS, JavaScript, photographs, icons and fonts.
+- 56 English HTML pages, local CSS, JavaScript, photographs, icons and fonts.
+- Added Char Dham, Haridwar, Rishikesh, Mussoorie, Nainital, Jim Corbett, Shimla, Manali, Chandigarh, Amritsar and Lansdowne with individual enquiry pages.
+- All 39 owner-supplied photos from `images.zip` and the two additional WhatsApp ZIP files appear in the homepage and traveller gallery, with full-size viewing. Tourist photography in the hero, company section, group-travel tile and feature section has been replaced.
+- The 16 additional photos appear in the full gallery, with vehicle photos on the homepage and taxi enquiry pages, guest welcomes on About Us, and Taj Mahal photos on relevant Agra and Golden Triangle pages.
 - Reference homepage layout, navigation menus, destination grids, tour cards, company section, feature sections, blog cards and footer.
 - Tour category search and duration filters, 20 tour detail pages, photo galleries and route accordions.
 - About, contact, trip planning, FAQs, privacy and booking information pages.
@@ -13,7 +16,7 @@ The finished website is in `dist/`. Open `dist/index.html` directly, or serve th
 - Address: **Near UGB Bank, East, Jhandichour, Kotdwara, Uttarakhand 246149**.
 - Rating displayed as **4.9 / 5 from 177 Google reviews**, interpreting the business information provided in the request. This is a static supplied value, not a live Google integration.
 
-The frontend is adapted from https://www.tourporlaindia.com/. The homepage preserves the reference structure and photographs. Inner pages use the same visual language and recreated components, with new English content for Vinod Tour and Travels; this is not a verbatim translation of every source article or a crawl of every tour available on the original site.
+The frontend is adapted from https://www.tourporlaindia.com/. The homepage combines the reference components with a new hero, destination listings and owner-supplied traveller photographs. Destination scenery is retained where appropriate. Inner pages use the same visual language and recreated components, with new English content for Vinod Tour and Travels; this is not a verbatim translation of every source article or a crawl of every tour available on the original site.
 
 No chatbot, original company social accounts, analytics, payment processing, booking database or backend scripts are included. Original company awards, affiliations, customer testimonials and promotional video have been omitted. Tour routes are presented as suggested itineraries with services confirmed by enquiry.
 
@@ -23,7 +26,7 @@ Forms validate locally and prepare a WhatsApp link containing the entered detail
 
 ## Editing
 
-Edit the HTML files, `dist/styles.css`, `dist/app.js` and `dist/assets/vinod-logo.svg` directly. The `tools/` directory contains optional development utilities for rebuilding and checking the files; these are not website backend code and are not needed for deployment. Reference downloads are kept separately in `reference/`.
+Edit the HTML files, `dist/styles.css`, `dist/app.js` and `dist/assets/vinod-logo.svg` directly. For repeatable content changes, edit `tools/build_frontend.py` and `tools/update_destinations.py`, then run `python tools/build_frontend.py`. The photo manifest is `reference/traveller-photos.json`; the original supplied JPEG files are in `dist/assets/traveller-photos/`. The `tools/` directory contains optional development utilities for rebuilding and checking the files; these are not website backend code and are not needed for deployment. Reference downloads are kept separately in `reference/`.
 
 Serve **only `dist/`** or upload the contents of the supplied frontend ZIP to static hosting. Do not upload the reference or tools directories.
 

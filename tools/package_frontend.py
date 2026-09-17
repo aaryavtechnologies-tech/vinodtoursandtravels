@@ -30,12 +30,17 @@ mapping=json.loads((ROOT/'reference/assets.json').read_text())
 sources='# Asset provenance\n\nReference layout and photographs: https://www.tourporlaindia.com/\n\nBrand mark and favicon: created for Vinod Tour and Travels.\n\nLocal asset | Original source\n--- | ---\n'
 for url,path in sorted(mapping.items()):
     if OUT/path in included:sources+=f'{path} | {url}\n'
-readme='''VINOD TOUR AND TRAVELS — FRONTEND WEBSITE
+photos=json.loads((ROOT/'reference/traveller-photos.json').read_text())
+sources+=f'\n## Owner-supplied traveller photographs\n\nAll {len(photos)} owner-supplied photos from images.zip and the two additional WhatsApp ZIP files are included in the traveller gallery.\n\nLocal asset | Supplied filename\n--- | ---\n'
+for photo in photos:
+    sources+=f'{photo["image"]} | {photo["source"]}\n'
+readme=f'''VINOD TOUR AND TRAVELS — FRONTEND WEBSITE
 
 Open index.html in your browser, or upload this folder to static hosting.
 No installation, build process or backend is required.
 
-43 English pages with local styles, JavaScript, photographs and fonts.
+{len(list(OUT.glob('*.html')))} English pages with local styles, JavaScript, photographs and fonts.
+Includes 11 added destinations and all {len(photos)} owner-supplied traveller photos.
 Business phone and WhatsApp: +91 80760 69722
 Address: Near UGB Bank, East, Jhandichour, Kotdwara, Uttarakhand 246149
 The supplied rating is interpreted as 4.9 / 5 from 177 Google reviews.
@@ -44,7 +49,8 @@ Enquiry forms prepare a WhatsApp message for the visitor to review and send.
 They do not automatically send messages or confirm reservations.
 No chatbot, analytics, payment processing, backend or database is included.
 
-The reference homepage layout and images are retained and rebranded.
+The reference layout is adapted and rebranded, with owner-supplied tourist
+photography, a full traveller gallery and Uttarakhand / North India destinations.
 Inner pages recreate the reference components with English business copy;
 they are not a verbatim archive of every page on the original website.
 
