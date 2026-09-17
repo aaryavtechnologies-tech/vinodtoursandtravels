@@ -36,4 +36,8 @@ Use Cloudflare Pages with production branch `main`, framework `None`, build comm
 
 ## Validation commands
 
+The responsive layout pass in `tools/refine_layout.py` runs after content generation. It keeps the company and journey sections within their columns and reserves the correct image dimensions. Photo frames preserve complete traveller images, with consistent sizing across mobile, tablet and desktop.
+
+`node tools/verify_layout.cjs` (with Playwright available and `dist/` served at `http://127.0.0.1:8765`) checks all 56 pages at 320, 390, 768, 1024 and 1440 pixels, plus mobile navigation, photo viewing, FAQ and enquiry interactions. Screenshots and results are saved locally under `reference/`.
+
 `python tools/verify_frontend.py` checks all pages for broken local links, missing assets, old branding, Spanish remnants, duplicate IDs and remote rendering dependencies. `node --check dist/app.js` checks JavaScript syntax. Browser checks cover desktop and mobile navigation, search, empty results, WhatsApp enquiry preparation, gallery controls and FAQ accordions.

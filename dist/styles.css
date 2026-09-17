@@ -12,3 +12,97 @@ nav.c-navbar .navbar-brand img{width:230px!important;height:76px!important;objec
 
 /* Contextual vehicle, welcome and Agra photos; preserve complete images. */
 .context-photos{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px;margin:28px 0}.context-photos .traveller-photo{display:flex;flex-direction:column;height:100%;margin:0;background:#eef4f2}.context-photos .traveller-photo img{height:340px;object-fit:contain}.context-photos .traveller-photo>span{margin-top:auto;gap:12px;width:100%;background:#f5faf8;line-height:1.6}.vehicle-section{border-top:1px solid #dce8e5}@media(max-width:575px){.context-photos{grid-template-columns:1fr;gap:18px}.context-photos .traveller-photo img{height:auto;max-height:460px;object-fit:contain}}
+
+/* Consistent photo frames and balanced, responsive company sections. */
+img { max-width: 100%; }
+.company-grid, .journey-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(28px, 4vw, 64px);
+}
+.company-copy .heading { margin-bottom: 20px; }
+.company-copy p { line-height: 1.85; }
+.company-copy ul { display: grid; gap: 12px; margin: 24px 0 0; padding: 0; }
+.company-photo-frame, .journey-photo-frame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 0;
+  padding: 16px;
+  border: 1px solid #dce8e5;
+  border-radius: 12px;
+  background: #f2f7f5;
+  overflow: hidden;
+}
+.company-photo-frame { cursor: zoom-in; }
+.company-photo, .journey-photo {
+  display: block;
+  width: 100%;
+  height: 360px;
+  object-fit: contain;
+  border-radius: 6px;
+}
+.journey-section { border-top: 1px solid #e3ece8; }
+.journey-grid { grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr); }
+.journey-photo { height: 420px; }
+.journey-features { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 28px; }
+.journey-feature h5 { margin: 0 0 10px !important; font-size: 18px; line-height: 1.5; }
+.journey-feature p { margin: 0; line-height: 1.75; }
+.traveller-hero { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.traveller-hero-photos { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.traveller-hero-photos img { height: 340px; object-fit: contain; background: #ffffff0a; }
+.traveller-hero-photos img + img { margin-top: 0; }
+.package-item { overflow: hidden; }
+.package-item img { height: auto; aspect-ratio: 3 / 2; }
+.home-img-view img { height: auto; aspect-ratio: 4 / 3; }
+.home-img-view img[src*='traveller-photos'] { object-fit: contain; background: #f2f7f5; }
+.content-photo { height: auto; }
+.content-photo[src*='traveller-photos'] { height: 380px; object-fit: contain; background: #f2f7f5; padding: 12px; }
+.traveller-gallery { columns: auto; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; }
+.traveller-gallery .traveller-photo { margin: 0; display: flex; flex-direction: column; }
+.traveller-gallery .traveller-photo img { height: 260px; object-fit: contain; background: #eef4f2; }
+.traveller-photo > span { gap: 10px; line-height: 1.6; }
+.traveller-gallery .traveller-photo > span { margin-top: auto; }
+.context-photos .traveller-photo img { height: 300px; }
+.footer-grid > div, .two-column > *, .form-grid > * { min-width: 0; }
+.success-message { overflow-wrap: anywhere; }
+.navbar-collapse { min-width: 0; }
+@media (max-width: 1199px) {
+  .traveller-hero-photos img { height: 290px; }
+  .traveller-gallery { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (max-width: 991px) {
+  .company-grid, .journey-grid { grid-template-columns: 1fr; }
+  .company-photo-frame, .journey-photo-frame { max-width: 620px; margin: auto; }
+  .journey-photo-frame { order: 2; }
+  .company-photo, .journey-photo { height: 340px; }
+  .traveller-hero { grid-template-columns: 1fr; }
+  .traveller-hero-photos { padding: 0 24px 30px; }
+  .traveller-hero-copy > p { max-width: 620px; }
+  .traveller-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .context-photos { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .navbar-collapse.show { max-height: calc(100dvh - 135px); overflow-y: auto; }
+}
+@media (max-width: 575px) {
+  .sec-p-se { padding: 32px 8px !important; }
+  .company-photo, .journey-photo { height: 290px; }
+  .company-photo-frame, .journey-photo-frame { padding: 10px; }
+  .company-copy .heading { font-size: 28px !important; }
+  .journey-features { grid-template-columns: 1fr; gap: 20px; }
+  .traveller-hero-photos img { height: 210px; }
+  .traveller-gallery { gap: 12px; }
+  .traveller-gallery .traveller-photo img { height: 200px; }
+  .traveller-photo > span { font-size: 12px; }
+  .context-photos { grid-template-columns: 1fr; }
+  .context-photos .traveller-photo img { height: 300px; }
+  .content-photo[src*='traveller-photos'] { height: 300px; }
+  .page-content, .site-footer { padding-bottom: 80px; }
+}
+@media (max-width: 359px) {
+  nav.c-navbar .navbar-brand img { width: 180px !important; }
+  .traveller-gallery { grid-template-columns: 1fr; }
+  .traveller-hero-photos { gap: 8px; padding-inline: 20px; }
+  .traveller-hero-photos img { height: 170px; }
+}
