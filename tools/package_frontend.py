@@ -11,7 +11,7 @@ for file in OUT.glob('*.html'):
     soup=BeautifulSoup(file.read_text(encoding='utf-8'),'html.parser')
     for tag in soup.select('[src],[href]'):
         url=tag.get('src') or tag.get('href')
-        if url.startswith(('https:','http:','tel:','data:','#')):continue
+        if url.startswith(('https:','http:','tel:','mailto:','data:','#')):continue
         included.add(OUT/urlsplit(url).path)
 processed=set()
 while True:
@@ -34,6 +34,7 @@ photos=json.loads((ROOT/'reference/traveller-photos.json').read_text())
 sources+=f'\n## Owner-supplied traveller photographs\n\nAll {len(photos)} owner-supplied photos from images.zip and the additional WhatsApp ZIP files are included in the traveller gallery.\n\nLocal asset | Supplied filename\n--- | ---\n'
 for photo in photos:
     sources+=f'{photo["image"]} | {photo["source"]}\n'
+sources+='assets/traveller-photos/golden-triangle-6-days.jpeg | Owner-supplied Golden Triangle 6 Days replacement photo\n'
 sources+='\n## Destination photographs\n\nSee photo-credits.html for visible credits and original license links.\n\n'
 for photo in json.loads((ROOT/'reference/destination-photos.json').read_text(encoding='utf-8')).values():
     sources+=f'{photo["image"]} | {photo["artist"]} | {photo["license"]} | {photo["source"]} | {photo["license_url"]}\n'
@@ -44,8 +45,11 @@ No installation, build process or backend is required.
 
 {len(list(OUT.glob('*.html')))} English pages with local styles, JavaScript, photographs and fonts.
 Includes 11 added destinations and all {len(photos)} owner-supplied traveller photos.
-Business phone and WhatsApp: +91 80760 69722
-Address: Near UGB Bank, East, Jhandichour, Kotdwara, Uttarakhand 246149
+Kotdwar phone and WhatsApp: +91 80760 69722
+Delhi phone and WhatsApp: +91 90455 11378
+Kotdwar office: Near UGB Bank, East, Jhandichour, Kotdwara, Uttarakhand 246149, India
+Delhi office: Shop No. 10, Sector 2, R.K. Puram, Main Market, New Delhi 110022, India
+Email: Vndkmr733@gmail.com
 The supplied rating is interpreted as 4.9 / 5 from 177 Google reviews.
 
 Enquiry forms prepare a WhatsApp message for the visitor to review and send.

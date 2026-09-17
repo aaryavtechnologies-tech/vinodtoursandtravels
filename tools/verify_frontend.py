@@ -16,9 +16,9 @@ for file in pages:
     if soup.select('iframe,form[action],script[src^="http"]'):errors.append(f'{file.name}: backend / embed dependency')
     for tag in soup.select('[src],[href]'):
         link=tag.get('src') or tag.get('href')
-        if link.startswith(('https:','http:','tel:','data:','#')):
+        if link.startswith(('https:','http:','tel:','mailto:','data:','#')):
             if tag.name in ('img','script','link','iframe') and not link.startswith('data:'):errors.append(f'{file.name}: external render asset {link}')
-            if 'wa.me/' in link and 'wa.me/918076069722' not in link:errors.append(f'{file.name}: wrong WhatsApp number')
+            if 'wa.me/' in link and not any(number in link for number in ('wa.me/918076069722','wa.me/919045511378')):errors.append(f'{file.name}: wrong WhatsApp number')
             continue
         if not (OUT/urlsplit(link).path).is_file():errors.append(f'{file.name}: missing {link}')
     ids=[el['id'] for el in soup.select('[id]')]

@@ -131,3 +131,19 @@ img { max-width: 100%; }
   .traveller-hero-photos { gap: 8px; padding-inline: 20px; }
   .traveller-hero-photos img { height: 170px; }
 }
+
+/* Keep both office numbers visible in the compact contact bar. */
+.footer-grid .button { margin: 0 8px 10px 0; }
+@media (max-width: 575px) {
+  .topline {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4px 12px;
+    min-height: 52px;
+    padding: 6px 10px;
+  }
+  .topline > a:nth-child(2) { display: block; }
+  .topline > a:nth-child(n+3) { display: none; }
+  .topline a { font-size: 11px; white-space: nowrap; }
+  .topline strong { font-size: 12px; }
+}

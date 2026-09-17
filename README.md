@@ -13,9 +13,11 @@ The finished website is in `dist/`. Open `dist/index.html` directly, or serve th
 - Reference homepage layout, navigation menus, destination grids, tour cards, company section, feature sections, blog cards and footer.
 - Tour category search and duration filters, 20 tour detail pages, photo galleries and route accordions.
 - About, contact, trip planning, FAQs, privacy and booking information pages.
-- Phone links: **+91 80760 69722**.
-- WhatsApp links: **https://wa.me/918076069722**.
-- Address: **Near UGB Bank, East, Jhandichour, Kotdwara, Uttarakhand 246149**.
+- Kotdwar phone and WhatsApp: **+91 80760 69722**.
+- Delhi phone and WhatsApp: **+91 90455 11378**.
+- Kotdwar office: **Near UGB Bank, East, Jhandichour, Kotdwara, Uttarakhand 246149, India**.
+- Delhi office: **Shop No. 10, Sector 2, R.K. Puram, Main Market, New Delhi 110022, India**.
+- Email: **Vndkmr733@gmail.com**.
 - Rating displayed as **4.9 / 5 from 177 Google reviews**, interpreting the business information provided in the request. This is a static supplied value, not a live Google integration.
 
 The frontend is adapted from https://www.tourporlaindia.com/. The homepage combines the reference components with a new hero, destination listings and owner-supplied traveller photographs. Destination scenery is retained where appropriate. Inner pages use the same visual language and recreated components, with new English content for Vinod Tour and Travels; this is not a verbatim translation of every source article or a crawl of every tour available on the original site.
