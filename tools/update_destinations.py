@@ -45,7 +45,7 @@ def apply_updates(save, banner, form):
             tiles += f'<button type="button" class="traveller-photo" data-gallery-src="{item["image"]}" aria-label="Open photo: {caption}"><img src="{item["image"]}" alt="{caption}" width="{width}" height="{height}" loading="lazy" decoding="async"><span>{caption} <span aria-hidden="true">↗</span></span></button>'
         return tiles + '</div>'
 
-    vehicle_section = '<section class="page-content vehicle-section"><p class="f-family-cursive s-c curs-heading">On the road with us</p><h2 class="heading">Your Taxi, Your Journey</h2><p class="lead-text">A look at our vehicles and guest pickups. Share your group size, luggage and route so we can discuss a suitable vehicle and confirm availability.</p>' + photo_tiles([24, 25, 26]) + '<a class="button" href="plan-my-trip.html">Enquire about a taxi →</a></section>'
+    vehicle_section = '<section class="page-content vehicle-section"><p class="f-family-cursive s-c curs-heading">On the road with us</p><h2 class="heading">Our Cars, Ready for Your Journey</h2><p class="lead-text">See our vehicles from the front, side and rear. Tap any photo to view it full size, then share your route, group size and luggage needs to check availability.</p>' + photo_tiles([40, 41, 42, 43, 24, 26]) + '<a class="button" href="plan-my-trip.html">Enquire about a taxi →</a></section>'
     agra_section = '<section class="page-content"><p class="f-family-cursive s-c curs-heading">Memories from Agra</p><h2 class="heading">Our Travellers at the Taj Mahal</h2><p class="lead-text">A few moments from visits to Agra, shared by Vinod Tour and Travels.</p>' + photo_tiles([31, 32, 33]) + '</section>'
 
     save('destinations', 'Our Destinations', banner('Our Destinations') + destination_section())

@@ -1,0 +1,138 @@
+{
+  "manali": {
+    "image": "assets/destinations/manali.jpg",
+    "alt": "Manali, Himachal Pradesh",
+    "source": "https://commons.wikimedia.org/wiki/File:Manali_City.jpg",
+    "artist": "Neerajsinghazm",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "shimla": {
+    "image": "assets/destinations/shimla.jpg",
+    "alt": "Shimla",
+    "source": "https://commons.wikimedia.org/wiki/File:Landscape_of_Shimla_,_Himachal_Pradesh.jpg",
+    "artist": "Navneet Sharma",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "chandigarh": {
+    "image": "assets/destinations/chandigarh.jpg",
+    "alt": "Chandigarh",
+    "source": "https://commons.wikimedia.org/wiki/File:Open_Hand_monument,_Chandigarh.jpg",
+    "artist": "Raakesh Blokhra",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "amritsar": {
+    "image": "assets/destinations/amritsar.jpg",
+    "alt": "Golden Temple",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Golden_Temple_of_Amrithsar_7.jpg",
+    "artist": "Shagil Kannur",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "char-dham": {
+    "image": "assets/destinations/char-dham.jpg",
+    "alt": "Kedarnath Temple",
+    "source": "https://commons.wikimedia.org/wiki/File:Kedarnath_Temple_in_Rainy_season.jpg",
+    "artist": "Shivam Kumar 766",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "haridwar": {
+    "image": "assets/destinations/haridwar.jpg",
+    "alt": "Har Ki Pauri",
+    "source": "https://commons.wikimedia.org/wiki/File:Evening_view_of_Har-ki-Pauri,_Haridwar.jpg",
+    "artist": "Sanatansociety Picture provided by Peter and Chris Marchand, provides free information for promotional purpose",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5"
+  },
+  "rishikesh": {
+    "image": "assets/destinations/rishikesh.jpg",
+    "alt": "Rishikesh",
+    "source": "https://commons.wikimedia.org/wiki/File:Trayambakeshwar_Temple_VK.jpg",
+    "artist": "VK1983",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "mussoorie": {
+    "image": "assets/destinations/mussoorie.jpg",
+    "alt": "Mussoorie",
+    "source": "https://commons.wikimedia.org/wiki/File:Mussoorie_Snow_Over_Dehradun_(14831297545).jpg",
+    "artist": "Paul Hamilton",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "nainital": {
+    "image": "assets/destinations/nainital.jpg",
+    "alt": "Nainital",
+    "source": "https://commons.wikimedia.org/wiki/File:Nainital_metro.jpg",
+    "artist": "Skalvanov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "jim-corbett": {
+    "image": "assets/destinations/jim-corbett.jpg",
+    "alt": "Jim Corbett National Park",
+    "source": "https://commons.wikimedia.org/wiki/File:Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg",
+    "artist": "Soumyajit Nandy",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "lansdowne": {
+    "image": "assets/destinations/lansdowne.jpg",
+    "alt": "Lansdowne, India",
+    "source": "https://commons.wikimedia.org/wiki/File:Lansdowne_Landscape.jpg",
+    "artist": "Ravi krishnan gupta",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "delhi": {
+    "image": "assets/destinations/delhi.jpg",
+    "alt": "India Gate",
+    "source": "https://commons.wikimedia.org/wiki/File:India_Gate_in_the_Evening.jpg",
+    "artist": "Incredible India Portal",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "jaipur": {
+    "image": "assets/destinations/jaipur.jpg",
+    "alt": "Hawa Mahal",
+    "source": "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg",
+    "artist": "Chainwit.",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "agra-fort": {
+    "image": "assets/destinations/agra-fort.jpg",
+    "alt": "Agra Fort",
+    "source": "https://commons.wikimedia.org/wiki/File:Agra_03-2016_16_Agra_Fort.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "license_url": "http://artlibre.org/licence/lal/en"
+  },
+  "qutub-minar": {
+    "image": "assets/destinations/qutub-minar.jpg",
+    "alt": "Qutb Minar",
+    "source": "https://commons.wikimedia.org/wiki/File:Qutb_Minar_2022.jpg",
+    "artist": "Wasir kasab",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "lotus-temple": {
+    "image": "assets/destinations/lotus-temple.jpg",
+    "alt": "Lotus Temple",
+    "source": "https://commons.wikimedia.org/wiki/File:LotusDelhi.jpg",
+    "artist": "Vandelizer",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "taj-mahal": {
+    "image": "assets/destinations/taj-mahal.jpeg",
+    "alt": "Taj Mahal",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg",
+    "artist": "Yann ; edited by Jim Carter",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

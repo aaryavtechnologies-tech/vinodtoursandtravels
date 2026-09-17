@@ -4,9 +4,11 @@ The finished website is in `dist/`. Open `dist/index.html` directly, or serve th
 
 ## Included
 
-- 56 English HTML pages, local CSS, JavaScript, photographs, icons and fonts.
+- 57 English HTML pages, local CSS, JavaScript, photographs, icons and fonts.
+- Delhi–Jaipur–Agra and Rajasthan lead the homepage and package menus, followed by Manali and other tours. Uttarakhand is the final package group.
+- Every destination card and individual destination enquiry page includes a relevant photograph. The homepage and city tour pages feature India Gate, Hawa Mahal, Taj Mahal, Agra Fort, Qutub Minar and Lotus Temple. Photo credits and license links are included in `dist/photo-credits.html`.
 - Added Char Dham, Haridwar, Rishikesh, Mussoorie, Nainital, Jim Corbett, Shimla, Manali, Chandigarh, Amritsar and Lansdowne with individual enquiry pages.
-- All 39 owner-supplied photos from `images.zip` and the two additional WhatsApp ZIP files appear in the homepage and traveller gallery, with full-size viewing. Tourist photography in the hero, company section, group-travel tile and feature section has been replaced.
+- All 43 owner-supplied photos from `images.zip` and the additional WhatsApp ZIP files appear in the homepage and traveller gallery, with full-size viewing. The latest four vehicle photos appear in the fleet section on the homepage, contact and trip-planning pages, preserving the complete photos.
 - The 16 additional photos appear in the full gallery, with vehicle photos on the homepage and taxi enquiry pages, guest welcomes on About Us, and Taj Mahal photos on relevant Agra and Golden Triangle pages.
 - Reference homepage layout, navigation menus, destination grids, tour cards, company section, feature sections, blog cards and footer.
 - Tour category search and duration filters, 20 tour detail pages, photo galleries and route accordions.
@@ -26,7 +28,7 @@ Forms validate locally and prepare a WhatsApp link containing the entered detail
 
 ## Editing
 
-Edit the HTML files, `dist/styles.css`, `dist/app.js` and `dist/assets/vinod-logo.svg` directly. For repeatable content changes, edit `tools/build_frontend.py` and `tools/update_destinations.py`, then run `python tools/build_frontend.py`. The photo manifest is `reference/traveller-photos.json`; the original supplied JPEG files are in `dist/assets/traveller-photos/`. The `tools/` directory contains optional development utilities for rebuilding and checking the files; these are not website backend code and are not needed for deployment. Reference downloads are kept separately in `reference/`.
+Edit the HTML files, `dist/styles.css`, `dist/app.js` and `dist/assets/vinod-logo.svg` directly. For repeatable content changes, edit `tools/build_frontend.py`, `tools/update_destinations.py` and `tools/prioritize_tours.py`, then run `python tools/build_frontend.py`. The photo manifests are `reference/traveller-photos.json` and `reference/destination-photos.json`; supplied JPEG files are in `dist/assets/traveller-photos/`. Destination photographs are already downloaded in `dist/assets/destinations/`, so rebuilding does not require network access. The `tools/` directory contains optional development utilities, not website backend code. Reference downloads are kept separately in `reference/`.
 
 Serve **only `dist/`** or upload the contents of the supplied frontend ZIP to static hosting. Do not upload the reference or tools directories.
 
@@ -38,6 +40,6 @@ Use Cloudflare Pages with production branch `main`, framework `None`, build comm
 
 The responsive layout pass in `tools/refine_layout.py` runs after content generation. It keeps the company and journey sections within their columns and reserves the correct image dimensions. Photo frames preserve complete traveller images, with consistent sizing across mobile, tablet and desktop.
 
-`node tools/verify_layout.cjs` (with Playwright available and `dist/` served at `http://127.0.0.1:8765`) checks all 56 pages at 320, 390, 768, 1024 and 1440 pixels, plus mobile navigation, photo viewing, FAQ and enquiry interactions. Screenshots and results are saved locally under `reference/`.
+`node tools/verify_layout.cjs` (with Playwright available and `dist/` served at `http://127.0.0.1:8765`) checks all pages at 320, 390, 768, 1024 and 1440 pixels, plus package order, full vehicle photos, mobile navigation, photo viewing, FAQ and enquiry interactions. Screenshots and results are saved locally under `reference/`.
 
 `python tools/verify_frontend.py` checks all pages for broken local links, missing assets, old branding, Spanish remnants, duplicate IDs and remote rendering dependencies. `node --check dist/app.js` checks JavaScript syntax. Browser checks cover desktop and mobile navigation, search, empty results, WhatsApp enquiry preparation, gallery controls and FAQ accordions.

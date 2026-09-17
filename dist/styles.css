@@ -15,6 +15,31 @@ nav.c-navbar .navbar-brand img{width:230px!important;height:76px!important;objec
 
 /* Consistent photo frames and balanced, responsive company sections. */
 img { max-width: 100%; }
+/* Featured city journeys, destination photographs and full vehicle views. */
+.heritage-hero { min-height: 540px; }
+.heritage-hero-photos { display:grid; grid-template-columns:1.2fr 1fr; grid-template-rows:1fr 1fr; gap:12px; padding:28px 28px 28px 0; min-width:0; }
+.heritage-hero-photos figure { position:relative; margin:0; min-height:0; overflow:hidden; border-radius:10px; }
+.heritage-hero-photos .hero-taj { grid-row:1 / 3; }
+.heritage-hero-photos img { width:100%; height:100%; object-fit:cover; }
+.heritage-hero-photos figcaption { position:absolute; bottom:0; inset-inline:0; padding:36px 15px 15px; background:linear-gradient(transparent,#001b35dd); color:white; font-size:13px; font-weight:600; }
+.tour-shortcuts { display:flex; justify-content:center; flex-wrap:wrap; gap:10px; padding:20px; border-bottom:1px solid #dce8e5; }
+.tour-shortcuts a { border:1px solid #cadbd5; border-radius:30px; padding:9px 18px; font-size:13px; font-weight:700; color:#002248; }
+.tour-shortcuts a:first-child,.tour-shortcuts a:hover { background:#002248; border-color:#002248; color:white!important; }
+.photo-package { padding:0!important; overflow:hidden; background:white; }
+.photo-package > img { width:100%; height:210px; object-fit:cover; }
+.destination-card-copy { padding:24px; display:flex; flex-direction:column; flex:1; }
+.destination-card-copy h3 { font-size:23px; }
+.heritage-grid { grid-template-columns:repeat(4,minmax(0,1fr)); }
+#mountain-city-tours { background:#f4f9f7; }
+#uttarakhand-tours { border-top:1px solid #e1e9e5; }
+.landmark-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:22px; margin-top:28px; }
+.landmark-grid .traveller-photo { margin:0; }
+.landmark-grid img { width:100%; height:250px; object-fit:contain; background:#eef4f2; }
+.destination-lead-photo { margin:0 0 28px; }
+.destination-lead-photo img { width:100%; height:360px; object-fit:cover; border-radius:10px; }
+@media(max-width:1199px) { .heritage-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media(max-width:991px) { .heritage-hero-photos { padding:0 24px 28px; height:400px; } .landmark-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media(max-width:575px) { .heritage-hero-photos { height:315px; gap:8px; } .heritage-hero-photos figcaption { font-size:11px; padding-inline:10px; } .heritage-grid { grid-template-columns:1fr; } .landmark-grid { gap:12px; } .landmark-grid img { height:180px; } .destination-lead-photo img { height:260px; } .tour-shortcuts { justify-content:flex-start; padding:16px 20px; } .tour-shortcuts a { font-size:12px; padding:8px 12px; } }
 .company-grid, .journey-grid {
   display: grid;
   grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);

@@ -31,9 +31,12 @@ sources='# Asset provenance\n\nReference layout and photographs: https://www.tou
 for url,path in sorted(mapping.items()):
     if OUT/path in included:sources+=f'{path} | {url}\n'
 photos=json.loads((ROOT/'reference/traveller-photos.json').read_text())
-sources+=f'\n## Owner-supplied traveller photographs\n\nAll {len(photos)} owner-supplied photos from images.zip and the two additional WhatsApp ZIP files are included in the traveller gallery.\n\nLocal asset | Supplied filename\n--- | ---\n'
+sources+=f'\n## Owner-supplied traveller photographs\n\nAll {len(photos)} owner-supplied photos from images.zip and the additional WhatsApp ZIP files are included in the traveller gallery.\n\nLocal asset | Supplied filename\n--- | ---\n'
 for photo in photos:
     sources+=f'{photo["image"]} | {photo["source"]}\n'
+sources+='\n## Destination photographs\n\nSee photo-credits.html for visible credits and original license links.\n\n'
+for photo in json.loads((ROOT/'reference/destination-photos.json').read_text(encoding='utf-8')).values():
+    sources+=f'{photo["image"]} | {photo["artist"]} | {photo["license"]} | {photo["source"]} | {photo["license_url"]}\n'
 readme=f'''VINOD TOUR AND TRAVELS — FRONTEND WEBSITE
 
 Open index.html in your browser, or upload this folder to static hosting.

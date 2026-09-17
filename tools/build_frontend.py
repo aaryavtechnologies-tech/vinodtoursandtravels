@@ -192,6 +192,8 @@ for b,paragraphs in zip(blogs,articles):
 save('404','Page Not Found',banner('Page Not Found')+'<section class="page-content"><h2>Let’s get you back on your journey.</h2><p>The page you are looking for could not be found.</p><a class="button" href="index.html">Return home →</a></section>')
 from update_destinations import apply_updates
 apply_updates(save, banner, form)
+from prioritize_tours import prioritize_tours
+prioritize_tours(save, banner)
 from refine_layout import refine_layout
 refine_layout()
 print('Created',len(list(OUT.glob('*.html'))),'English frontend pages.')
