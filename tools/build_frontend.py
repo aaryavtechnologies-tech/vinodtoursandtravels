@@ -20,6 +20,8 @@ WA='https://wa.me/918076069722'
 DELHI_WA='https://wa.me/919045511378'
 MAP='https://www.google.com/maps/search/?api=1&query='+quote(BRAND+' '+ADDRESS)
 DELHI_MAP='https://www.google.com/maps/search/?api=1&query='+quote(BRAND+' '+DELHI_ADDRESS)
+GOOGLE_REVIEWS='https://share.google/JuWZW1Pivax5L9NAr'
+TRIPADVISOR_REVIEWS='https://www.tripadvisor.in/Hotel_Review-g297668-d13165386-Reviews-Pukhraj_Garh-Jodhpur_Jodhpur_District_Rajasthan.html'
 
 # All homepage text is replaced; the original frontend markup is retained.
 for el in source.select('script,style'): el.decompose()
@@ -117,7 +119,7 @@ sections=source.body.find_all('section',recursive=False)[1:]
 body=''
 for section in sections:
     if section.select_one('.partener'):
-        body+=f'<section class="rating-band"><div><span class="stars">★★★★★</span><h2>4.9 out of 5</h2><p>177 Google reviews</p></div><div><h2>Your local travel contact in Kotdwara</h2><p>Vinod Tour and Travels · Taxi service in Uttarakhand</p><a class="button navy" href="contact.html">Get in touch <span>→</span></a></div></section>'
+        body+=f'''<section class="rating-band"><div><span class="stars">★★★★★</span><h2>Read our guest reviews</h2><p>See traveller experiences on Google and Tripadvisor.</p></div><div class="review-platforms"><a class="review-platform-button google-review-button" href="{GOOGLE_REVIEWS}" target="_blank" rel="noopener" aria-label="View Pukhraj Garh A Heritage House on Google"><img src="assets/google-g-logo.svg" alt="" width="34" height="34"><span><small>View on</small><strong>Google</strong></span></a><a class="review-platform-button tripadvisor-review-button" href="{TRIPADVISOR_REVIEWS}" target="_blank" rel="noopener" aria-label="View Pukhraj Garh reviews on Tripadvisor"><img src="assets/63c16dd10f.png" alt="Tripadvisor" width="200" height="100"></a></div></section>'''
         continue
     iframe=section.select_one('iframe')
     if iframe:
