@@ -18,7 +18,6 @@ The finished website is in `dist/`. Open `dist/index.html` directly, or serve th
 - Kotdwar office: **Near UGB Bank, East, Jhandichour, Kotdwara, Uttarakhand 246149, India**.
 - Delhi office: **Store No. 8, Sector 2, R.K. Puram, New Delhi 110022, India**.
 - Email: **Vndkmr733@gmail.com**.
-- Rating displayed as **4.9 / 5 from 177 Google reviews**, interpreting the business information provided in the request. This is a static supplied value, not a live Google integration.
 
 The frontend is adapted from https://www.tourporlaindia.com/. The homepage combines the reference components with a new hero, destination listings and owner-supplied traveller photographs. Destination scenery is retained where appropriate. Inner pages use the same visual language and recreated components, with new English content for Vinod Tour and Travels; this is not a verbatim translation of every source article or a crawl of every tour available on the original site.
 

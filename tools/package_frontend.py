@@ -50,7 +50,6 @@ Delhi phone and WhatsApp: +91 90455 11378
 Kotdwar office: Near UGB Bank, East, Jhandichour, Kotdwara, Uttarakhand 246149, India
 Delhi office: Store No. 8, Sector 2, R.K. Puram, New Delhi 110022, India
 Email: Vndkmr733@gmail.com
-The supplied rating is interpreted as 4.9 / 5 from 177 Google reviews.
 
 Enquiry forms prepare a WhatsApp message for the visitor to review and send.
 They do not automatically send messages or confirm reservations.
