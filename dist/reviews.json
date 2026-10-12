@@ -1,0 +1,962 @@
+[
+  {
+    "name": "Abhishek Verma",
+    "url": "https://www.google.com/maps/contrib/111852317872008438349/reviews?hl=en-GB",
+    "badge": "",
+    "date": "a month ago",
+    "text": "Excellent Travel Service I had a great experience with Vinod Tour & Travel. Their service was very",
+    "rating": 5
+  },
+  {
+    "name": "Sai",
+    "url": "https://www.google.com/maps/contrib/114948829251120262359/reviews?hl=en-GB",
+    "badge": "",
+    "date": "4 months ago",
+    "text": "Vinod was extremely courteous, kind and very helpful in my trip to Ransi. He provided information he knew about key places along the route and went out of his way help me locate items I needed. Excellent reliable driver and fantastic service. I will recommend him to anyone needing cab services.",
+    "rating": 5
+  },
+  {
+    "name": "MAYYUR B MERCHANT",
+    "url": "https://www.google.com/maps/contrib/100517719051391858373/reviews?hl=en-GB",
+    "badge": "Local Guide",
+    "date": "5 months ago",
+    "text": "Today I came to Delhi and had a great experience. Vinod Sir provided excellent service — he was very polite, caring, and made us feel very comfortable throughout. He deserves more than a 5-star rating. Highly appreciated!",
+    "rating": 5
+  },
+  {
+    "name": "manka mehta",
+    "url": "https://www.google.com/maps/contrib/104785007265568643102/reviews?hl=en-GB",
+    "badge": "",
+    "date": "9 months ago",
+    "text": "Expert driving, very safe and very polite! Made the trip memorable because the drive despite being so long was so very smooth!! The car was clean and Vinod bhai was the most reliable driver! Always always recommend this!",
+    "rating": 5
+  },
+  {
+    "name": "Sam Schruder",
+    "url": "https://www.google.com/maps/contrib/115473589382921887331/reviews?hl=en-GB",
+    "badge": "Local Guide",
+    "date": "6 months ago",
+    "text": "My friend recommended Vinod and he gave an excellent service! He’s got a calm and caring presence, I really felt taken care of. Highly recommend his service whether short or longer trips.",
+    "rating": 5
+  },
+  {
+    "name": "Medida Manvitha Persis",
+    "url": "https://www.google.com/maps/contrib/112570145504852091054/reviews?hl=en-GB",
+    "badge": "",
+    "date": "7 months ago",
+    "text": "We had a GOOD travel experience to Agra from Delhi with Vinod ji. The ride was nice and comfortable. Driving very safe and steadily.👍",
+    "rating": 5
+  },
+  {
+    "name": "UPS&D",
+    "url": "https://www.google.com/maps/contrib/104035313040267121892/reviews?hl=en-GB",
+    "badge": "",
+    "date": "10 months ago",
+    "text": "We had a wonderful travel experience with our driver Aman during our journey to Lansdowne. He was polite, friendly, and very knowledgeable about the local places. He showed us the best viewpoints, scenic spots, and shared helpful",
+    "rating": 5
+  },
+  {
+    "name": "Shasi Prasad",
+    "url": "https://www.google.com/maps/contrib/114807726499901507203/reviews?hl=en-GB",
+    "badge": "",
+    "date": "10 months ago",
+    "text": "I highly recommend Vinod as a tour guide travelling in India. I visited 11 different cities in about 3 weeks and mostly on road with Vinod as our driver, guide and hotel check-ins. Vinod went out of his washing to deliver a professional yet",
+    "rating": 5
+  },
+  {
+    "name": "Hitesh Saharan",
+    "url": "https://www.google.com/maps/contrib/117296952926260875569/reviews?hl=en-GB",
+    "badge": "",
+    "date": "4 months ago",
+    "text": "Humne inke sath haridwar se sonprayag tak trip ki shander driver h or bande bhi bhoot ache hme raste me jo dekhane wali jagha thi vo gadi rok kar dikhai or pure raste hmara manorajan bhi kiya vinod ji bhoot ache bnde h enke sath aap suraksit h",
+    "rating": 5
+  },
+  {
+    "name": "Abs",
+    "url": "https://www.google.com/maps/contrib/112119721491616050015/reviews?hl=en-GB",
+    "badge": "Local Guide",
+    "date": "7 months ago",
+    "text": "Manoj was a really great driver. His driving is very safe and he is super friendly. He made the entire trip enjoyable (what a very long day it was to see the Taj). Definitely worth it.",
+    "rating": 5
+  },
+  {
+    "name": "Solarify",
+    "url": "https://www.google.com/maps/contrib/116124948186427778624/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a month ago",
+    "text": "Its was a great Experience with Ganesh.He has so much of knowledge about all the sightseeing places as well",
+    "rating": 5
+  },
+  {
+    "name": "Yogendra Yogendra Kumar",
+    "url": "https://www.google.com/maps/contrib/103508998812449806348/reviews?hl=en-IN",
+    "badge": "",
+    "date": "6 months ago",
+    "text": "The ride was really nice and comfortable. Vinod was very cooperative and humble person.I truly appreciated the pleasant and hassle free ride..",
+    "rating": 5
+  },
+  {
+    "name": "Shivan Bhoendie",
+    "url": "https://www.google.com/maps/contrib/109514070286386857105/reviews?hl=en-IN",
+    "badge": "",
+    "date": "7 months ago",
+    "text": "Very friendly and knowledgeable driver, on time, flexible and drives safely but swiftly through Delhi traffic",
+    "rating": 5
+  },
+  {
+    "name": "PRASHANT SINGH",
+    "url": "https://www.google.com/maps/contrib/115208069524100714855/reviews?hl=en-IN",
+    "badge": "",
+    "date": "4 months ago",
+    "text": "The experience was very good 👍😊. the driver was very kind and humble 😃. 5 out of 5 starts ⭐ by me",
+    "rating": 5
+  },
+  {
+    "name": "Deepak Khera",
+    "url": "https://www.google.com/maps/contrib/101367665574032616567/reviews?hl=en-IN",
+    "badge": "",
+    "date": "Edited 5 months ago",
+    "text": "Wonderful service, polite and flexible Liked the car, very clean, good driving, highly recommended",
+    "rating": 5
+  },
+  {
+    "name": "Prakash Kanth",
+    "url": "https://www.google.com/maps/contrib/100823447466529020466/reviews?hl=en-IN",
+    "badge": "",
+    "date": "10 months ago",
+    "text": "We were with Vinod for a trip to Rishikesh from Gurgaon. Clean and well maintained car, excellent driving , punctual and courteous . He is very helpful with information and assistance. Happy with the experience and will be happy to travel with him again. Prakash Kanth , Gurgaon",
+    "rating": 5
+  },
+  {
+    "name": "sahil chopra",
+    "url": "https://www.google.com/maps/contrib/118138399323144012083/reviews?hl=en-IN",
+    "badge": "",
+    "date": "4 months ago",
+    "text": "Good experience with ds company while travel Kedarnath and Badrinath with vinod ji he gives u good guidence to travel with him 😊😊😊😊",
+    "rating": 5
+  },
+  {
+    "name": "Pasha King",
+    "url": "https://www.google.com/maps/contrib/103303775448449318001/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "We had a very pleasant trip from Lucknow to Khajuraho and back to Delhi with Mr Vinod ! He is a very safe , pleasant, knowledgeable and respectful driver. He made our long journey so easy due to his knowledge of places and pleasant",
+    "rating": 5
+  },
+  {
+    "name": "Arindam Naskar",
+    "url": "https://www.google.com/maps/contrib/105900029480473107428/reviews?hl=en-IN",
+    "badge": "",
+    "date": "4 months ago",
+    "text": "Excellent service, Polite behaviour and he gave us good suggestion for the rest of trips.",
+    "rating": 5
+  },
+  {
+    "name": "Barbara Rocchetti",
+    "url": "https://www.google.com/maps/contrib/112979694251427515614/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Absolute first class service with Vinod. He was a safe, knowledgeable and very accommodating driver, guide and host. He made our trip very pleasant. We would have no hesitation in recommending his services in India. Thank you for our lovely trip Vinod and see you soon! :)",
+    "rating": 5
+  },
+  {
+    "name": "Harish Raju",
+    "url": "https://www.google.com/maps/contrib/111236391781492055126/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Mr. Vinod Gosai is very good driving and friendly. Punctual and shows all important attractions properly. Guides you against tourist traps and scams. Very friendly",
+    "rating": 5
+  },
+  {
+    "name": "MIG VIAGGI",
+    "url": "https://www.google.com/maps/contrib/112339805676990275578/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "We really had a very good time with Vinod. He always took care of us, even when we were late, he supported us and skip the traffic jam. Very prudent driver. We recommend him for your travels!",
+    "rating": 5
+  },
+  {
+    "name": "Armandina Ramírez",
+    "url": "https://www.google.com/maps/contrib/104253806674055384807/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "9 months ago",
+    "text": "Vinod was very professional and did a great job driving us from Delhi to Agra to the Taj Mahal.",
+    "rating": 5
+  },
+  {
+    "name": "Christophe Jaku",
+    "url": "https://www.google.com/maps/contrib/115188928823345133437/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Vinod is a first class driver ! Our trip through Rajasthan would not have been the same without him. He is more than a driver… a perfect guide with many secret itinaries and surprises !",
+    "rating": 5
+  },
+  {
+    "name": "Daniella Gatt",
+    "url": "https://www.google.com/maps/contrib/111440591992250763278/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "a year ago",
+    "text": "Great driver for our week in India! He was always on time and knowledgable on the local area…we even got him into bird watching, ha! We would highly recommend using Vinod for getting around India! Thank you for a lovely trip Vinod!!",
+    "rating": 5
+  },
+  {
+    "name": "Amit Gusain",
+    "url": "https://www.google.com/maps/contrib/113704130357395347134/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 months ago",
+    "text": "Convenient, responsible, and friendly person . Go for it",
+    "rating": 5
+  },
+  {
+    "name": "jitendra singh naruka",
+    "url": "https://www.google.com/maps/contrib/108068804767732099226/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "a year ago",
+    "text": "This is a amazing tour service provider. I have been from Delhi to Jaisalmer tour with vinod . He gave me excellent service. His behaviour is so nice . He has very good knowledge about the city tour in Rajasthan. So please enjoy the trip with him . Thank you",
+    "rating": 5
+  },
+  {
+    "name": "Patrick Duck",
+    "url": "https://www.google.com/maps/contrib/107167975148846658088/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "Absolute first class service from Vinod. He was a safe, knowledgeable and very accommodating driver, guide and host. We would have no hesitation in recommending his services.",
+    "rating": 5
+  },
+  {
+    "name": "kezz Meehan",
+    "url": "https://www.google.com/maps/contrib/116431289912524727009/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "2 years ago",
+    "text": "We had the pleasure of having Vinod as our driver while we were on holiday in India October 2023. We was safe driver, very friendly and professional. We would highly recommend using him.",
+    "rating": 5
+  },
+  {
+    "name": "Dennis B.",
+    "url": "https://www.google.com/maps/contrib/114081920173345748109/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "We stayed for a week in India and Vinod has been a kind and very helpful driver. He was always there for us regardless the time. Thank you very much for the good service 🙏🏽",
+    "rating": 5
+  },
+  {
+    "name": "María Pía Munizaga Mellado",
+    "url": "https://www.google.com/maps/contrib/115471302856251547763/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Excellent driver, very friendly and respectful, and he has a good knowledge of places to visit. He made my trip in Delhi very pleasant.",
+    "rating": 5
+  },
+  {
+    "name": "Dhruv Dave",
+    "url": "https://www.google.com/maps/contrib/112722622636761663944/reviews?hl=en-IN",
+    "badge": "",
+    "date": "4 months ago",
+    "text": "Wonderful travel agency and very good service",
+    "rating": 5
+  },
+  {
+    "name": "Ankit Kotnala",
+    "url": "https://www.google.com/maps/contrib/108304589218107609660/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "a month ago",
+    "text": "Very helpful and interactive drivers",
+    "rating": 5
+  },
+  {
+    "name": "Sudeep Kukreti",
+    "url": "https://www.google.com/maps/contrib/103696173606054289864/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 months ago",
+    "text": "Clean and very good service @Vinod gusain",
+    "rating": 5
+  },
+  {
+    "name": "Veena Ramdhani",
+    "url": "https://www.google.com/maps/contrib/116792689014111083097/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "If you looking for a driver on a planned trip to India, look no further than Vinod Gusain.A humble man who loves his country and treats his clients with compassion. You are safe never conned into doing something you do not want to and are",
+    "rating": 5
+  },
+  {
+    "name": "권오승",
+    "url": "https://www.google.com/maps/contrib/109592661840869910872/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "a year ago",
+    "text": "very nice driver vinod kumar is the pbest driver",
+    "rating": 5
+  },
+  {
+    "name": "Alok Singh",
+    "url": "https://www.google.com/maps/contrib/110032153153350716448/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Conditions of Car is superb, Hygienic & Safe,. The most part of this car is quite comfort in long journey, And The person who seated at Driving seat is having familiar attitudes & Passengers can Trust on Him by any Means, Thank You",
+    "rating": 5
+  },
+  {
+    "name": "Rachit Bindlish",
+    "url": "https://www.google.com/maps/contrib/110264935197763115224/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "We have taken services of vinod ji fir going kotdwar to lansdowne.the overall experience was excellent .The car was in excellent condition & his nature was wonderful.Excellent service,nice behaviour& punctual.",
+    "rating": 5
+  },
+  {
+    "name": "Luke Oxley",
+    "url": "https://www.google.com/maps/contrib/108095342365850514249/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "10 months ago",
+    "text": "Very friendly, clean car and safe driver. Highly recommend.",
+    "rating": 5
+  },
+  {
+    "name": "Eugénie Jakubyszyn",
+    "url": "https://www.google.com/maps/contrib/100875862710392555982/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Amazing trip ! I highly recommend, such a great experience. Thank you so much Vinod for everything.",
+    "rating": 5
+  },
+  {
+    "name": "Sukhdev Singh",
+    "url": "https://www.google.com/maps/contrib/109664240894004374518/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Mr Vinod very good driver good service good car I am very happy Mr Vinod car very green",
+    "rating": 5
+  },
+  {
+    "name": "saket khodaskar",
+    "url": "https://www.google.com/maps/contrib/103103255855221985819/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "8 months ago",
+    "text": "Amazing experience, super chill person.",
+    "rating": 5
+  },
+  {
+    "name": "Tabbu Pal",
+    "url": "https://www.google.com/maps/contrib/110056491964219434158/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "I travelled alone and it was amazing experience with Vinod he was nice and smoothly safe drop me at my home",
+    "rating": 5
+  },
+  {
+    "name": "노상호",
+    "url": "https://www.google.com/maps/contrib/107821736907386908558/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Vinod is a good driver. I’ll reccomand him to everyome who try to visit Agra",
+    "rating": 5
+  },
+  {
+    "name": "Bijendra Singh",
+    "url": "https://www.google.com/maps/contrib/115406457166715237151/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very cordial person. It has been a great experience with him traveling from kotdwara to vaishali.",
+    "rating": 5
+  },
+  {
+    "name": "Jitender Agarwal",
+    "url": "https://www.google.com/maps/contrib/116010912908679885525/reviews?hl=en-IN",
+    "badge": "",
+    "date": "7 months ago",
+    "text": "हमारा सफर बहुत ही आनन्द से रहा, विनोद जी का ड्राइविंग बहुत ही बढ़िया है।।",
+    "rating": 5
+  },
+  {
+    "name": "Chandana S. O",
+    "url": "https://www.google.com/maps/contrib/110936263105250476126/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Nice and good experience with vinod sir, we were able to have south indian food which was tasty .thank you sir😊",
+    "rating": 5
+  },
+  {
+    "name": "Idris Khan",
+    "url": "https://www.google.com/maps/contrib/111027051201580606750/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Best sarvice I had to meet travel india Vinod such great parson highly recommend for vinod",
+    "rating": 5
+  },
+  {
+    "name": "Anuma Bisht",
+    "url": "https://www.google.com/maps/contrib/113573873904364391465/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Had an easy and safe journey with him, very accommodating amd patient",
+    "rating": 5
+  },
+  {
+    "name": "Ravish Rawat",
+    "url": "https://www.google.com/maps/contrib/102993566602604415937/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "3 years ago",
+    "text": "Mr. Vinod Gosain is a very professional and well-behaved driver 👍 He is a very understanding and courteous person 😊",
+    "rating": 5
+  },
+  {
+    "name": "Issac Regisow",
+    "url": "https://www.google.com/maps/contrib/113428939824360505051/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Very decent driver with good skill of driving 👍",
+    "rating": 5
+  },
+  {
+    "name": "Lal Singh",
+    "url": "https://www.google.com/maps/contrib/117569739618619070098/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "Veri nice driver good journey mister Vinod is good tour Agra Jaipur my trip is good",
+    "rating": 5
+  },
+  {
+    "name": "akhil kandari",
+    "url": "https://www.google.com/maps/contrib/105129873282663345952/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 months ago",
+    "text": "Nice car ride",
+    "rating": 5
+  },
+  {
+    "name": "Sourav Singh",
+    "url": "https://www.google.com/maps/contrib/115443698202926063490/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "My Trip was too good with this guy he is familier I like to travel with him I hope so my next trip will be soon with you Thankyou my big brother I have a good experience with you brother thankyou ..",
+    "rating": 5
+  },
+  {
+    "name": "NEWS 81 NETWORK",
+    "url": "https://www.google.com/maps/contrib/101790246432248730165/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Car and driver are very good and good condition very clean very hygienic.driver is very co operative see you Next time.",
+    "rating": 5
+  },
+  {
+    "name": "PREETI SINGH",
+    "url": "https://www.google.com/maps/contrib/104334168935219666925/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Very good driver excellent service",
+    "rating": 5
+  },
+  {
+    "name": "veena negi",
+    "url": "https://www.google.com/maps/contrib/110055514343532540168/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Nice experience, driver behave very comfortable..",
+    "rating": 5
+  },
+  {
+    "name": "Jitendra Rawat",
+    "url": "https://www.google.com/maps/contrib/115197156556839901131/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "वेरी नाइस बहुत अच्छा है सफर हमारा बहुत अच्छा रहा अगली बार भी हम आपको बुलाएंगे आपको बहुत अनुभव है आप बहुत बढ़िया कार चलाते हो",
+    "rating": 5
+  },
+  {
+    "name": "Maharishi Group",
+    "url": "https://www.google.com/maps/contrib/101946516771863732148/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Vinod is very good drive.driving is good nd save driving..nd help full.",
+    "rating": 5
+  },
+  {
+    "name": "Rattan Prakash",
+    "url": "https://www.google.com/maps/contrib/102517211959037386144/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very good service and politely communation with the customer and have good knowledge of the places.",
+    "rating": 5
+  },
+  {
+    "name": "Ashok Kumar",
+    "url": "https://www.google.com/maps/contrib/111756127630833072179/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "Very nice good service.Excellent job.",
+    "rating": 5
+  },
+  {
+    "name": "Manju Kumari",
+    "url": "https://www.google.com/maps/contrib/116943656894683422145/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Good driving and behavior is also very good .",
+    "rating": 5
+  },
+  {
+    "name": "Vishnu Dubey",
+    "url": "https://www.google.com/maps/contrib/112163079005315890728/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Excellent service I m very happy.",
+    "rating": 5
+  },
+  {
+    "name": "Gayatri Singh",
+    "url": "https://www.google.com/maps/contrib/107945809247066483650/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "3 years ago",
+    "text": "Had a nice experience and in short time travel! Happy!",
+    "rating": 5
+  },
+  {
+    "name": "Naresh Sagar",
+    "url": "https://www.google.com/maps/contrib/106327601405382359790/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "###driver are very good and good condition very clean# .driver is very co operative see you Next time.#✓",
+    "rating": 5
+  },
+  {
+    "name": "Jitendra kumar",
+    "url": "https://www.google.com/maps/contrib/114212235420918323813/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very Driver excellent behavior must try once ..",
+    "rating": 5
+  },
+  {
+    "name": "Karan Juyal",
+    "url": "https://www.google.com/maps/contrib/108396841843348325795/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very nice person great experience to travel with him",
+    "rating": 5
+  },
+  {
+    "name": "Daksh Tour And Travel",
+    "url": "https://www.google.com/maps/contrib/101492827630115837279/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "3 years ago",
+    "text": "Good service thank you so much vinod sir🙏🏻",
+    "rating": 5
+  },
+  {
+    "name": "Puja Gusain",
+    "url": "https://www.google.com/maps/contrib/107997027930142523621/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Bhut hi achi suvida dete h... Vinod tour & travel.....",
+    "rating": 5
+  },
+  {
+    "name": "DEEPAK CHAUHAN",
+    "url": "https://www.google.com/maps/contrib/115787465287456906504/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "Very nice drive excellent 👌",
+    "rating": 5
+  },
+  {
+    "name": "Suraj Shah",
+    "url": "https://www.google.com/maps/contrib/118182612339402478439/reviews?hl=en-IN",
+    "badge": "",
+    "date": "Edited 3 years ago",
+    "text": "Very good sarvice and good driving",
+    "rating": 5
+  },
+  {
+    "name": "Dharamveer Singh",
+    "url": "https://www.google.com/maps/contrib/114158134556929166503/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Very nice driver",
+    "rating": 5
+  },
+  {
+    "name": "Nandan Singh",
+    "url": "https://www.google.com/maps/contrib/112354994324473355770/reviews?hl=en-IN",
+    "badge": "",
+    "date": "10 months ago",
+    "text": "Good Service and sutstiction",
+    "rating": 5
+  },
+  {
+    "name": "Diwakar kumar",
+    "url": "https://www.google.com/maps/contrib/118240678239264672300/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very nice service, excellent 👌 service ,good price",
+    "rating": 5
+  },
+  {
+    "name": "Anju Mathur",
+    "url": "https://www.google.com/maps/contrib/116432189976871487267/reviews?hl=en-IN",
+    "badge": "",
+    "date": "9 months ago",
+    "text": "Excellent",
+    "rating": 5
+  },
+  {
+    "name": "Prabhakar Shah",
+    "url": "https://www.google.com/maps/contrib/107538089910586497558/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "Exllent Drive vindo helpful person",
+    "rating": 5
+  },
+  {
+    "name": "Hardeep Negi",
+    "url": "https://www.google.com/maps/contrib/116572595100733613224/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Excellent great experience, very courteous amazing staff",
+    "rating": 5
+  },
+  {
+    "name": "Sarjeet Sharma",
+    "url": "https://www.google.com/maps/contrib/101342665113812685866/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "Very nice excellent report 👍",
+    "rating": 5
+  },
+  {
+    "name": "Dinesh Singh",
+    "url": "https://www.google.com/maps/contrib/102488683794388076736/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very Nice Service Mr Vinod Sir",
+    "rating": 5
+  },
+  {
+    "name": "Atul syoli",
+    "url": "https://www.google.com/maps/contrib/114823644083313346824/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very very good ,,dirver Vinod sir,,and good services,,",
+    "rating": 5
+  },
+  {
+    "name": "Kunal Kumar",
+    "url": "https://www.google.com/maps/contrib/104348300351017148912/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "Very nice exilet service",
+    "rating": 5
+  },
+  {
+    "name": "Dc Dardar",
+    "url": "https://www.google.com/maps/contrib/107341793332369372301/reviews?hl=en-IN",
+    "badge": "",
+    "date": "Edited 3 years ago",
+    "text": "Very good",
+    "rating": 5
+  },
+  {
+    "name": "Rohit Maindola",
+    "url": "https://www.google.com/maps/contrib/105263187418305909887/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very nice Ecilanat driver",
+    "rating": 5
+  },
+  {
+    "name": "Vaibhav Bhatia",
+    "url": "https://www.google.com/maps/contrib/113983757685609065149/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very nice cab servise",
+    "rating": 5
+  },
+  {
+    "name": "Sanjay Singh",
+    "url": "https://www.google.com/maps/contrib/112462328274435028396/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "Mr vinod Exlent driver",
+    "rating": 5
+  },
+  {
+    "name": "Dalip Kumar",
+    "url": "https://www.google.com/maps/contrib/101830862934564479037/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "I am really impressed by your service",
+    "rating": 5
+  },
+  {
+    "name": "Karam Dugi",
+    "url": "https://www.google.com/maps/contrib/104692185779809249434/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Good service for tourism",
+    "rating": 5
+  },
+  {
+    "name": "Pankaj Bisht",
+    "url": "https://www.google.com/maps/contrib/108836585522451240955/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Good driving skills and behaviour",
+    "rating": 5
+  },
+  {
+    "name": "Keshav Rawat",
+    "url": "https://www.google.com/maps/contrib/102284934366980957099/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "It was nice to have service from them",
+    "rating": 5
+  },
+  {
+    "name": "Surender Singh",
+    "url": "https://www.google.com/maps/contrib/113448874860744318306/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "Excellent service good 👍",
+    "rating": 5
+  },
+  {
+    "name": "prince roy",
+    "url": "https://www.google.com/maps/contrib/105869761791861768753/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very good driver",
+    "rating": 5
+  },
+  {
+    "name": "Rishi Pandya",
+    "url": "https://www.google.com/maps/contrib/105615168761743184208/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Very good service",
+    "rating": 5
+  },
+  {
+    "name": "Vivek Juyal",
+    "url": "https://www.google.com/maps/contrib/104498440928200420170/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Safely drive with nice behavior",
+    "rating": 5
+  },
+  {
+    "name": "Rohit Singh",
+    "url": "https://www.google.com/maps/contrib/104377050355156543989/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very nice",
+    "rating": 5
+  },
+  {
+    "name": "Bhavishanth Suresh",
+    "url": "https://www.google.com/maps/contrib/113484233518249648611/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a year ago",
+    "text": "Good Service.",
+    "rating": 5
+  },
+  {
+    "name": "SURAJ",
+    "url": "https://www.google.com/maps/contrib/112139564222743176437/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "3 years ago",
+    "text": "Very professional and nice service",
+    "rating": 5
+  },
+  {
+    "name": "Rajini Agrwal",
+    "url": "https://www.google.com/maps/contrib/110885008586255433724/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Nice 😊",
+    "rating": 5
+  },
+  {
+    "name": "Yashika Phul",
+    "url": "https://www.google.com/maps/contrib/111497643097167218795/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Wonderful",
+    "rating": 5
+  },
+  {
+    "name": "Tanya Negi",
+    "url": "https://www.google.com/maps/contrib/114366745218557103478/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "The place were very good",
+    "rating": 5
+  },
+  {
+    "name": "BHASKAR Kumar",
+    "url": "https://www.google.com/maps/contrib/104705530573642473818/reviews?hl=en-IN",
+    "badge": "",
+    "date": "Edited a year ago",
+    "text": "My experience with this, is amazing",
+    "rating": 5
+  },
+  {
+    "name": "Neeraj Bhardawaj",
+    "url": "https://www.google.com/maps/contrib/111634100139886881260/reviews?hl=en-IN",
+    "badge": "",
+    "date": "Edited 8 months ago",
+    "text": "Nice driver👌👌",
+    "rating": 5
+  },
+  {
+    "name": "Shashi Chander",
+    "url": "https://www.google.com/maps/contrib/114264978984656780751/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Kotdwa to & vice versa",
+    "rating": 5
+  },
+  {
+    "name": "Kalas Sing",
+    "url": "https://www.google.com/maps/contrib/107423373316068531556/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 years ago",
+    "text": "Very good excellent serviceVery good excellent service",
+    "rating": 5
+  },
+  {
+    "name": "Gopal Panday",
+    "url": "https://www.google.com/maps/contrib/108390122607943844489/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Very nice excellent Very nice excellent",
+    "rating": 5
+  },
+  {
+    "name": "Rashmi Joshi",
+    "url": "https://www.google.com/maps/contrib/107239569954090310765/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Great experience 👍 👌 👏",
+    "rating": 5
+  },
+  {
+    "name": "A-kay Singh",
+    "url": "https://www.google.com/maps/contrib/100402723614167141691/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Extent",
+    "rating": 5
+  },
+  {
+    "name": "arun naithani",
+    "url": "https://www.google.com/maps/contrib/104977143069286430063/reviews?hl=en-IN",
+    "badge": "Local Guide",
+    "date": "3 years ago",
+    "text": "Excellent service",
+    "rating": 5
+  },
+  {
+    "name": "Saurabh Bisht",
+    "url": "https://www.google.com/maps/contrib/103923362601421779690/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Good person..👌🏼👍🏼",
+    "rating": 5
+  },
+  {
+    "name": "Sangeeta Devi",
+    "url": "https://www.google.com/maps/contrib/101856497018625011043/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Good work👍👍👍👍",
+    "rating": 5
+  },
+  {
+    "name": "Mahesh Chandra",
+    "url": "https://www.google.com/maps/contrib/107476278858075669331/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "वेरी नाइसगुड कार",
+    "rating": 5
+  },
+  {
+    "name": "Bipin Sati",
+    "url": "https://www.google.com/maps/contrib/103794381596226319061/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 years ago",
+    "text": "Good services",
+    "rating": 5
+  },
+  {
+    "name": "Anshika Das",
+    "url": "https://www.google.com/maps/contrib/101552714335340331612/reviews?hl=en-IN",
+    "badge": "",
+    "date": "5 days ago",
+    "text": "I travelled from Kotdwar to Delhi by cab, and it was a really good experience. The cab was clean and comfortable, and the driver was polite, professional, and drove safely. The journey was smooth and hassle-free. Overall, I had a great experience and would definitely recommend their service for comfortable and reliable travel.",
+    "rating": 5
+  },
+  {
+    "name": "Akshat Keshtwal",
+    "url": "https://www.google.com/maps/contrib/111940103014585451308/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a week ago",
+    "text": "Exceptional travel experience. Would highly recommend to all!!",
+    "rating": 5
+  },
+  {
+    "name": "Riya",
+    "url": "https://www.google.com/maps/contrib/102097827188853842838/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a month ago",
+    "text": "I travelled from Delhi to dehradun with Vinod Ji. He is an excellent driver and a very nice person. The car was very clean and well-maintained, and the journey was very safe and comfortable. He is very punctual, polite and professional, and",
+    "rating": 5
+  },
+  {
+    "name": "Chandra Singh",
+    "url": "https://www.google.com/maps/contrib/117601650628248735790/reviews?hl=en-IN",
+    "badge": "",
+    "date": "Edited a month ago",
+    "text": "I travelled from Delhi to Chandigarh with Vinod Ji. He is an excellent driver and a very nice person. The car was very clean and well-maintained, and the journey was very safe and comfortable. He is very punctual, polite and professional,",
+    "rating": 5
+  },
+  {
+    "name": "Ashish Malhotra",
+    "url": "https://www.google.com/maps/contrib/108946636762630599532/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a month ago",
+    "text": "Nice to be nice professional guy with professional service",
+    "rating": 5
+  },
+  {
+    "name": "Rohit Silmana",
+    "url": "https://www.google.com/maps/contrib/105118706959210021339/reviews?hl=en-IN",
+    "badge": "",
+    "date": "a month ago",
+    "text": "Nice and save journey. Nice driver he was friendly in nature 🌝🌸🌺🫡🫡😀😀😀",
+    "rating": 5
+  },
+  {
+    "name": "abhishek yadav",
+    "url": "https://www.google.com/maps/contrib/101841377763015586962/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 months ago",
+    "text": "Behaviour and driving skills both are good.",
+    "rating": 5
+  },
+  {
+    "name": "Shivani Rawat",
+    "url": "https://www.google.com/maps/contrib/108776392289439367045/reviews?hl=en-IN",
+    "badge": "",
+    "date": "2 months ago",
+    "text": "Very nice driver... Comfortable journey... 😄",
+    "rating": 5
+  },
+  {
+    "name": "Tapasya Upadhyay",
+    "url": "https://www.google.com/maps/contrib/104124497150241122007/reviews?hl=en-IN",
+    "badge": "",
+    "date": "3 months ago",
+    "text": "Had a wonderful experience with Vinod Tour and Travels. Our driver, Manish Bhaiya, was very professional, punctual, and polite throughout the journey. He drove safely, knew the routes well, and made our trip comfortable and hassle-free. The",
+    "rating": 5
+  }
+]
